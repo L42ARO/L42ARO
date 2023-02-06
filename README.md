@@ -1,7 +1,9 @@
 Hello there, I'm L42ARO, computer Engineering student.
-Have experience developing in C++, C#, python, Javscript, Java, game-dev and web-dev.
+Have experience developing in C++, C#, python, Javscript, Golang.
+Experience working with teams in Game Dev and Web Dev.
 Just looking to build cool projects in general.
-MTFBWY
+
+MTFBWY🚀
 
 <!---
 L42ARO/L42ARO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

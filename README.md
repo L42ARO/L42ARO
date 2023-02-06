@@ -1,4 +1,4 @@
-Hello there, I'm L42ARO, computer Engineering student.
+Hello there, I'm Alvaro, computer Engineering student.
 Have experience developing in C++, C#, python, Javscript, Golang.
 Experience working with teams in Game Dev and Web Dev.
 Just looking to build cool projects in general.
